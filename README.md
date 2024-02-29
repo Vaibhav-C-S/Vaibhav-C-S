@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-c-s&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-c-s" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaibhav-c-s" alt="vaibhav-c-s" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
